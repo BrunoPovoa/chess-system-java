@@ -30,4 +30,7 @@ public abstract class Piece {
         }
         return false;
     }
+
+    public void remove(Piece capturedPiece) {
+    }
 }
